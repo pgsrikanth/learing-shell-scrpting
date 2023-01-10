@@ -1,2 +1,2 @@
 # shell-scrpting
-this is my scrpt
+this is my scrpting
