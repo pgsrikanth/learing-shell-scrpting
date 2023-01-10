@@ -1,1 +1,2 @@
-iam gowtham# learing-shell-scrpting
+# shell-scrpting
+this is my scrpt
